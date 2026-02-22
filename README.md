@@ -59,7 +59,7 @@ Update the following values:
 
 Clone the repository:
 
-git clone https://github.com/Mohan0909/food-delivery-jwt-authentication.git
+git clone https://github.com/Mohan0909/jwt-authentication.git
 
 Navigate into project:
 
